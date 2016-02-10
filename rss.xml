@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shaping the World]]></title>
         <description><![CDATA[Shaping the World]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shaper/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 20:59:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 21:19:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shaper/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The latest Tweets from Chris Torres (@CRTorresArt). Global Development - Communications Designer, Fine Artist, Web Designer - Opinions here are my own. LinkedIn: https://t.co/LafWnnXFTQ. Washington, DC</p>]]></description>
+            <link>https://twitter.com/CRTorresArt</link>
+            <guid isPermaLink="false">6eba74f4-2860-4ebe-aec2-6f953893faf0</guid>
+            <pubDate>Wed, 10 Feb 2016 21:19:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome!]]></title>
             <description><![CDATA[<article><h1>Welcome!</h1><p>Welcome to the site. I'm glad you could make it, we're just getting started. </p></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <link>https://thegrid.ai/shaper/welcome/index.html</link>
             <guid isPermaLink="false">a3cf591d-73d5-4ab6-907f-8512c171327e</guid>
             <pubDate>Wed, 10 Feb 2016 20:59:02 GMT</pubDate>
         </item>
