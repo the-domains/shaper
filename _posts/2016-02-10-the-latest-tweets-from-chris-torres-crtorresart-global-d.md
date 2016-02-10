@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://twitter.com/CRTorresArt'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - oneweb
   - greg_wyler
@@ -17,8 +17,8 @@ keywords:
   - sct_mx
   - tweet
 description: 'The latest Tweets from Chris Torres (@CRTorresArt). Global Development - Communications Designer, Fine Artist, Web Designer - Opinions here are my own. LinkedIn: https://t.co/LafWnnXFTQ. Washington, DC'
-datePublished: '2016-02-10T21:19:02.834Z'
-dateModified: '2016-02-10T21:18:16.691Z'
+datePublished: '2016-02-10T21:36:41.101Z'
+dateModified: '2016-02-10T21:36:36.331Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/696839365440380928/UFB8kElQ_400x400.jpg'
