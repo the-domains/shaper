@@ -1,8 +1,7 @@
 name: Shaper
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 1
-title: Shaping the World
+layout_spectrum: 0.27341485512442887
+typography_spectrum: 0.10005823406390846
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#070d10'
-    - '#2e515d'
-    - '#dddddd'
-    - '#b1bdc2'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.32423711312003434
+  lightness: 0.7559419125318527
+  saturation: 0.30287290387786925
+  rhythmicContrast: 0.5854194536805153
 purpose: []
