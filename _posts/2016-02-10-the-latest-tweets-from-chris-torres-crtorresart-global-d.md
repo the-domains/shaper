@@ -17,8 +17,8 @@ keywords:
   - sct_mx
   - tweet
 description: 'The latest Tweets from Chris Torres (@CRTorresArt). Global Development - Communications Designer, Fine Artist, Web Designer - Opinions here are my own. LinkedIn: https://t.co/LafWnnXFTQ. Washington, DC'
-datePublished: '2016-02-10T21:36:41.101Z'
-dateModified: '2016-02-10T21:36:36.331Z'
+datePublished: '2016-02-11T04:32:31.829Z'
+dateModified: '2016-02-11T04:32:26.569Z'
 author:
   - avatar:
       src: 'https://pbs.twimg.com/profile_images/696839365440380928/UFB8kElQ_400x400.jpg'
@@ -40,14 +40,14 @@ author:
 related: []
 app_links: []
 title: ''
+sourcePath: _posts/2016-02-10-the-latest-tweets-from-chris-torres-crtorresart-global-d.md
+published: true
 authors: []
 publisher:
   name: Twitter
   domain: twitter.com
   url: 'https://twitter.com'
   favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-sourcePath: _posts/2016-02-10-the-latest-tweets-from-chris-torres-crtorresart-global-d.md
-published: true
 _type: Comment
 _context: 'http://schema.org'
 
